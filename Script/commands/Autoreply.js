@@ -60,7 +60,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "tui ke": "আমি তোর বস রাজু এর ChatBot 😏",
     "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
     "hmm": "Hmmm কিসের হুমম জানু 🥵",
-    "love": "Love করলে সরাসরি রাজু বস কে বল জানু 😻🔥"
+    "Sraboni🥹✌️": "Love করলে সরাসরি রাজু বস কে বল জানু 😻🔥"
   };
 
   if (!responses[msg]) return;
